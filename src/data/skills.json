@@ -1,0 +1,21 @@
+{
+    "skills": [
+      {
+        "id": 0,
+        "skillName": "HTML5",
+        "amount": "100"
+      },
+      {
+        "id": 1,
+        "skillName": "CSS3",
+        "amount": "100"
+      },
+      {
+        "id": 2,
+        "skillName": "Javascript",
+        "amount": "100"
+      },
+      { "id": 3, "skillName": "UI/UX", "amount": "100" }
+    ]
+  }
+  

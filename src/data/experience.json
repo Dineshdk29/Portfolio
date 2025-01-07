@@ -1,0 +1,29 @@
+{
+    "experience": [
+      {
+        "id": 0,
+        "link": "",
+        "company": "Studio60",
+        "title": "FrontEnd Intern Dev",
+        "dateFrom": "June 2015",
+        "dateTo": "July 2018",
+        "info": ["Intern"],
+        "stack": ["HTML", "CSS", "Javascript"],
+        "logoheight": 60,
+        "img": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHNvREE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d80384b75ee7867c3191a60e8ae7a65ddcc397b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmtCcWpBPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--623b1a923c4c6ecbacda77c459f93960558db010/studio-60-logo.png"
+      },
+      {
+        "id": 1,
+        "link": "",
+        "company": "DFO",
+        "title": "FrontEnd Dev",
+        "dateFrom": "August 2020",
+        "dateTo": "Current",
+        "info": ["FrontEnd Developer"],
+        "stack": ["HTML", "CSS", "Javascript"],
+        "logowidth": 60,
+        "img": "https://media-exp1.licdn.com/dms/image/C4D0BAQHATlTO9c3n6w/company-logo_200_200/0/1574712983242?e=2147483647&v=beta&t=pP5VxGSw6OrzmMSLf6TnIeAAEGqhlBTQBtdgLqeBowY"
+      }
+    ]
+  }
+  
